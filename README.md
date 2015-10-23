@@ -1,4 +1,4 @@
 # ColorNametag
 Nametag that changes color every second
 
-[Unfinished yet, feel free to help]
+[Not tested, no idea if it will work. feel free to help]
